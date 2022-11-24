@@ -1,0 +1,50 @@
+body{
+    background-color: #0a192f;
+    color: #e0e6f4;
+}
+
+a {
+    text-decoration: none
+}
+
+.my-btn {
+    border: 0.5px solid #5ae6c7;
+    background-color: #0a192f;
+    color: #5ae6c7;
+    padding: 0.9em;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    
+  }
+  .my-btn:hover{
+    background-color: rgba(90, 230, 199, 0.35);
+    color: #5ae6c7;
+  }
+  
+  .my-resume {
+    border-color: #5ae6c7;
+    color: #5ae6c7;
+  }
+  .my-resume:hover{
+    background-color: rgba(90, 230, 199, 0.1);
+    color: #5ae6c7;
+  }
+
+  .test-card{
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+  }
+  
+  .img-avatar{
+    max-width: 55%;
+    height: auto;
+  }
+  .img-project{
+    max-width: 80%;
+    height: auto;
+  }
+  .img-project-agencia{
+    max-width: 60%;
+    height: auto;
+  }
+ 

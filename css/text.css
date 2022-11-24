@@ -1,0 +1,44 @@
+.name-highlight{
+    color: #eff6e0;
+    font-size: 5em;
+}
+.usual-text{
+    color: #e0e6f4;
+}
+.sub-textsize{
+    font-size: 3em;
+}
+.text-hightlight{
+    color:  #5ae6c7;
+}
+a{
+    color: #aec3b0;
+}
+.alinhar-texto{
+    float: left;
+    max-width: 35em;
+}
+.alinhar-img{
+    max-width:50%;
+    height:auto;
+    float: left;
+}
+.padding-hello{
+    padding-top: 10em;
+}
+.margin-text{
+    margin-left: 2em;
+}
+.img-hover{
+    background-color: (0, 183, 74, 0.6);
+}
+.card-box{
+    box-shadow: 0 4px 8px 0 rgba(90, 230, 199,0.15);
+    transition: 0.3s;
+}
+.card-box:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+
+  
